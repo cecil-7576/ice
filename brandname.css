@@ -251,5 +251,25 @@
             background-color:rgb(138, 138, 228);
             color: white;
             border-radius: 20px;
-        }        
+        }
+        
+        .fa fa-meh-o {
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            background-color:white;
+            border-radius: 20px;
+            border: 2px solid rgb(233, 128, 128);
+
+        }
+
+        .fa fa-meh-o:hover {
+            background-color: white; /* background changes to white on hover */
+        }
+
+        .i
+
+        .fa fa-meh-o:hover .icon {
+            color: white;
+        }
 </style>
